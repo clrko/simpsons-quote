@@ -1,4 +1,5 @@
 .QuoteCard {
+  margin : 0 auto;
     display: flex;
     padding: 1.25em;
     width: 400px;
